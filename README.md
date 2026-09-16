@@ -67,31 +67,31 @@ The system then assigns a risk score and classifies each record as:
 ## Key Features
 1. Data Validation
 
-Checks participant records for issues such as missing information, invalid values, duplicate IDs and incorrect age groups.
+ Checks participant records for issues such as missing information, invalid values, duplicate IDs and incorrect age groups.
 
 2. Risk Analysis
 
-Calculates risk scores based on the defined dietary indicators.
+ Calculates risk scores based on the defined dietary indicators.
 
 3. Participant Search
 
-Allows the user to search for an individual participant using their ID.
+ Allows the user to search for an individual participant using their ID.
 
 4. Location Search
 
-Allows records to be searched by location.
+ Allows records to be searched by location.
 
 5. Risk Ranking
 
-Identifies participants with higher risk signals based on their calculated scores.
+ Identifies participants with higher risk signals based on their calculated scores.
 
 6. Risk Factor Analysis
 
-Examines how frequently different dietary risk factors occur within the dataset.
+ Examines how frequently different dietary risk factors occur within the dataset.
 
 7. Interactive Menu
 
-Provides a simple menu that allows users to interact with the different functions of the system.
+ Provides a simple menu that allows users to interact with the different functions of the system.
 
 
 ## Technologies Used
